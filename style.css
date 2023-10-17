@@ -1,0 +1,112 @@
+body{
+    margin-left: 20px;
+}
+
+h4{
+text-align:justify;
+}
+colgroup:after
+
+.tab_1{
+    width: 600px;
+    height: 30px;
+    margin:0;
+    border-collapse: collapse;
+}
+.th_1{
+    width: 40px;
+    height: 20px;
+    font-size: 20px;
+    border: 1px solid rgba(87, 88, 88, 0.162);
+    background-color: rgba(87, 88, 88, 0.162);
+}
+.th_2{
+    width: 40px;
+    height: 20px;
+    font-size: 20px;
+    color: red;
+    border: 1px solid rgba(87, 88, 88, 0.162);
+    background-color: rgba(87, 88, 88, 0.162);
+}
+.th_3{
+    width: 40px;
+    height: 20px;
+    font-size: 20px;
+    color: red;
+    border: 1px solid rgba(87, 88, 88, 0.162);
+    background-color: rgba(87, 88, 88, 0.162);
+}
+.th_4{
+    width: 40px;
+    height: 20px;
+    font-size: 20px;
+    color: red;
+    border: 1px solid rgba(87, 88, 88, 0.162);
+    background-color: rgba(87, 88, 88, 0.162);
+}
+.th_5{
+    width: 40px;
+    height: 20px;
+    font-size: 20px;
+    border: 1px solid rgba(87, 88, 88, 0.162);
+    background-color: rgba(87, 88, 88, 0.162);
+}
+.th_6{
+    width: 40px;
+    height: 20px;
+    font-size: 20px;
+    border: 1px solid rgba(87, 88, 88, 0.162);
+    background-color: rgba(87, 88, 88, 0.162);
+}
+colgroup:after
+.tab_2{
+    width: 600px;
+    height: 30px;
+    margin:0;
+    border-collapse: collapse;
+}
+.th_7{
+    width: 40px;
+    height: 20px;
+    font-size: 20px;
+    color: red;
+    border: 1px solid rgba(87, 88, 88, 0.162);
+    background-color: rgba(87, 88, 88, 0.162);
+}
+.th_8{
+    width: 40px;
+    height: 20px;
+    font-size: 20px;
+    border: 1px solid rgba(87, 88, 88, 0.162);
+    background-color: rgba(87, 88, 88, 0.162);
+}
+.th_9{
+    width: 40px;
+    height: 20px;
+    font-size: 20px;
+    border: 1px solid rgba(87, 88, 88, 0.162);
+    background-color: rgba(87, 88, 88, 0.162);
+}
+.th_10{
+    width: 40px;
+    height: 20px;
+    font-size: 20px;
+    color: red;
+    border: 1px solid rgba(87, 88, 88, 0.162);
+    background-color: rgba(87, 88, 88, 0.162);
+}
+.th_11{
+    width: 40px;
+    height: 20px;
+    font-size: 20px;
+    border: 1px solid rgba(87, 88, 88, 0.162);
+    background-color: rgba(87, 88, 88, 0.162);
+}
+.th_12{
+    width: 40px;
+    height: 20px;
+    font-size: 20px;
+    color: red;
+    border: 1px solid rgba(87, 88, 88, 0.162);
+    background-color: rgba(87, 88, 88, 0.162);
+}
